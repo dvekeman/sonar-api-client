@@ -1,0 +1,11 @@
+System.Win32.DebugApi dr :: Int -> Int
+Statistics.Function nextHighestPowerOfTwo :: Int -> Int
+Math.NumberTheory.Logarithms intLog2 :: Int -> Int
+Math.NumberTheory.Logarithms intLog2' :: Int -> Int
+Math.NumberTheory.MoebiusInversion.Int totientSum :: Int -> Int
+Numeric.SpecFunctions log2 :: Int -> Int
+Scripting.Lua upvalueindex :: Int -> Int
+Network.Haskoin.Block calcTreeHeight :: Int -> Int
+Network.Haskoin.Internals calcTreeHeight :: Int -> Int
+Data.IntervalMap.Generic.Lazy maxHeight :: Int -> Int
+-- plus more results not shown, pass --count=20 to see more

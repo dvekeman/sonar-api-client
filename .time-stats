@@ -1,0 +1,5 @@
+initial version: 1/2 day
+- basic servant client api
+- transforming the result in csv and markdown
+- messing with pandoc (didn't work)
+- cleaning up output
